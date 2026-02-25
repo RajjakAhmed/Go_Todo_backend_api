@@ -12,7 +12,7 @@ The purpose of this project is to demonstrate:
 
 ---
 
-## 📌 Core Features
+##  Core Features
 
 • Add a new todo  
 • Get all todos  
@@ -24,7 +24,7 @@ The purpose of this project is to demonstrate:
 
 ---
 
-## 🧠 Design Decisions
+##  Design Decisions
 
 - Todos are stored in-memory using a slice.
 - Data is persisted to a `todos.json` file after every modification.
@@ -34,7 +34,7 @@ The purpose of this project is to demonstrate:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Go
 - Fiber (github.com/gofiber/fiber/v2)
@@ -45,7 +45,7 @@ The purpose of this project is to demonstrate:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository
 
@@ -68,13 +68,13 @@ http://localhost:3000
 
 ---
 
-## 🧪 API Testing
+##  API Testing
 
 Test using Postman or any API client.
 
 ---
 
-## 👤 Author
+##  Author
 
 Rajjak Ahmed  
-Computer Science Engineering Student  
+
